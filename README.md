@@ -1,6 +1,7 @@
 # 專案名稱：311 工具工作坊活動網頁 (March 11 Tool Workshop)
 
 本專案為公司官網所屬的活動專題頁面，包含多語系支援、互動式元件（Slider/Buttons）以及故事導覽功能。
+活動網址 https://www.kingtony.com/2026_Ktday/march11-tool-workship-day.php
 
 ## 📂 目錄結構說明
 
