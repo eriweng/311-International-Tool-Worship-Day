@@ -3,6 +3,7 @@
 本專案為公司官網所屬的活動專題頁面，包含多語系支援、互動式元件（Slider/Buttons）以及故事導覽功能。
 
 活動首頁 https://www.kingtony.com/2026_Ktday/march11-tool-workship-day.php
+
 社群故事 https://www.kingtony.com/2026_Ktday/story_page.html?utm_source=311-Activity&utm_medium=btn
 
 ## 📂 目錄結構說明
